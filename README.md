@@ -12,7 +12,7 @@
    - python manage.py migrate
   
   5. Start the Development Server
-    - python manage.py runserver
+   - python manage.py runserver
   
   6. Access the Application
     -Once the server is running, open the following URL in your browser: http://127.0.0.1:8000/ 
